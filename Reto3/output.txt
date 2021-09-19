@@ -1,0 +1,150 @@
+Breakpoint 1 at 0x401000
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+Breakpoint 2 at 0x401010
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+<<<---INICIO--->>>
+<<<---///////////////////////////////////////////////////////////--->>>
+<<<---COPIADODECADENA1ENBSS--->>>
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 1
+Letra copiada a
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 2
+Letra copiada n
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 3
+Letra copiada i
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 4
+Letra copiada t
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 5
+Letra copiada a
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 6
+Letra copiada l
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 7
+Letra copiada a
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 8
+Letra copiada v
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 9
+Letra copiada a
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 10
+Letra copiada l
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 11
+Letra copiada a
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 12
+Letra copiada t
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 13
+Letra copiada i
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 14
+Letra copiada n
+
+Breakpoint 2, 0x0000000000401010 in bucle1 ()
+Posición 15
+Letra copiada a
+<<<---///////////////////////////////////////////////////////////--->>>
+<<<---COMPARACIÓN DE CADENAS PARA VERIFICAR SI SON PALINDROMO--->>>
+Breakpoint 3 at 0x401035
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 1
+ValorDeCaden1 en esa posición es a
+ValorDeCaden2 en esa posición es a
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 2
+ValorDeCaden1 en esa posición es n
+ValorDeCaden2 en esa posición es n
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 3
+ValorDeCaden1 en esa posición es i
+ValorDeCaden2 en esa posición es i
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 4
+ValorDeCaden1 en esa posición es t
+ValorDeCaden2 en esa posición es t
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 5
+ValorDeCaden1 en esa posición es a
+ValorDeCaden2 en esa posición es a
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 6
+ValorDeCaden1 en esa posición es l
+ValorDeCaden2 en esa posición es l
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 7
+ValorDeCaden1 en esa posición es a
+ValorDeCaden2 en esa posición es a
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 8
+ValorDeCaden1 en esa posición es v
+ValorDeCaden2 en esa posición es v
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 9
+ValorDeCaden1 en esa posición es a
+ValorDeCaden2 en esa posición es a
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 10
+ValorDeCaden1 en esa posición es l
+ValorDeCaden2 en esa posición es l
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 11
+ValorDeCaden1 en esa posición es a
+ValorDeCaden2 en esa posición es a
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 12
+ValorDeCaden1 en esa posición es t
+ValorDeCaden2 en esa posición es t
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 13
+ValorDeCaden1 en esa posición es i
+ValorDeCaden2 en esa posición es i
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 14
+ValorDeCaden1 en esa posición es n
+ValorDeCaden2 en esa posición es n
+
+Breakpoint 3, 0x0000000000401035 in bucle2 ()
+Posición 15
+ValorDeCaden1 en esa posición es a
+ValorDeCaden2 en esa posición es a
+<<<---///////////////////////////////////////////////////////////--->>>
