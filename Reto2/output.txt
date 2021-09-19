@@ -1,0 +1,111 @@
+Breakpoint 1 at 0x401000
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+Breakpoint 2 at 0x40101b
+
+Breakpoint 2, 0x000000000040101b in bucle1 ()
+<<<---INICIO--->>>
+<<<---DIVISIONES PARA HALLAR FACTORIAL DE CADA CIFRA DEL N--->>>
+Breakpoint 3 at 0x401029
+Breakpoint 4 at 0x401030
+Breakpoint 5 at 0x401038
+Suma cifras factoriales de N: 0
+N actual value es 145
+<<<---///////////////////////////////////////////////--->>>
+
+Breakpoint 3, 0x0000000000401029 in numDividido ()
+N actual value es 14
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+<<<---*********************************************--->>>
+Cifra es 5
+<<<---HALLANDO SU FACTORIAL--->>>
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 1
+valorFactorial value es 1
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 2
+valorFactorial value es 2
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 3
+valorFactorial value es 6
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 4
+valorFactorial value es 24
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 5
+valorFactorial value es 120
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 2, 0x000000000040101b in bucle1 ()
+Suma cifras factoriales de N: 120
+<<<---*********************************************--->>>
+
+Breakpoint 3, 0x0000000000401029 in numDividido ()
+N actual value es 1
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+<<<---*********************************************--->>>
+Cifra es 4
+<<<---HALLANDO SU FACTORIAL--->>>
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 1
+valorFactorial value es 1
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 2
+valorFactorial value es 2
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 3
+valorFactorial value es 6
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 4
+valorFactorial value es 24
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 2, 0x000000000040101b in bucle1 ()
+Suma cifras factoriales de N: 144
+<<<---*********************************************--->>>
+
+Breakpoint 3, 0x0000000000401029 in numDividido ()
+N actual value es 0
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+<<<---*********************************************--->>>
+Cifra es 1
+<<<---HALLANDO SU FACTORIAL--->>>
+
+Breakpoint 5, 0x0000000000401038 in factoParcial ()
+contador value es 1
+valorFactorial value es 1
+
+Breakpoint 4, 0x0000000000401030 in factorial ()
+
+Breakpoint 2, 0x000000000040101b in bucle1 ()
+Suma cifras factoriales de N: 145
+<<<---*********************************************--->>>
+<<<---///////////////////////////////////////////////--->>>
