@@ -1,0 +1,52 @@
+Breakpoint 1 at 0x401000
+
+Breakpoint 1, 0x0000000000401000 in _start ()
+Breakpoint 2 at 0x401049
+
+Breakpoint 2, 0x0000000000401049 in comp1 ()
+Breakpoint 3 at 0x40104d
+Breakpoint 4 at 0x401095
+<<<---INICIO--->>>
+<<<---TERMINO_IZQUIERDO--->>>
+valor de n: 1
+
+Breakpoint 3, 0x000000000040104d in bucle2 ()
+contador value is 1
+sumParcialContador value is 2
+
+Breakpoint 2, 0x0000000000401049 in comp1 ()
+sumParcialN value is 2
+<<<---*********************************************************--->>>
+valor de n: 2
+
+Breakpoint 3, 0x000000000040104d in bucle2 ()
+contador value is 1
+sumParcialContador value is 2
+
+Breakpoint 3, 0x000000000040104d in bucle2 ()
+contador value is 2
+sumParcialContador value is 4
+
+Breakpoint 2, 0x0000000000401049 in comp1 ()
+sumParcialN value is 6
+<<<---*********************************************************--->>>
+sumFinal value is 6
+<<<---//////////////////////////////////////////////////////////--->>>
+
+Breakpoint 4, 0x0000000000401095 in bucle3 ()
+<<<---TERMINO_DERECHA--->>>
+contador value is 1
+productParcial value is 2
+
+Breakpoint 4, 0x0000000000401095 in bucle3 ()
+contador value is 2
+productParcial value is 4
+
+Breakpoint 4, 0x0000000000401095 in bucle3 ()
+contador value is 3
+productParcial value is 8
+Breakpoint 5 at 0x4010b8
+
+Breakpoint 5, 0x00000000004010b8 in finDer ()
+2^n+1 value is 6
+<<<---FIN--->>>
